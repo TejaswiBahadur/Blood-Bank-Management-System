@@ -3,7 +3,6 @@
 ## Overview
 
 The Blood Bank Management System is designed to streamline the operations of blood banks, including managing blood donations, tracking inventory, and generating reports. This project includes a detailed report and a sample CSV file representing blood bank data.
-
 ## Project Structure
 
 This repository contains the following files:
